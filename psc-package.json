@@ -1,6 +1,6 @@
 {
   "name": "whatever",
-  "set": "020918",
+  "set": "09102018",
   "source": "https://github.com/justinwoo/spacchetti.git",
   "depends": [
     "console",
